@@ -201,7 +201,10 @@ if st.button("Generate Modul Ajar", type="primary", use_container_width=True):
                     tujuan_ai, langkah_ai, asesmen_ai
                 )
                 
-                st.success("✅ Modul Berhasil Dibuat!")
+                st.success("""
+                    ✅ **Modul Berhasil Dibuat!**  
+                    Silakan cek kembali hasilnya ya, Bapak/Ibu Guru Hebat. Sedikit sentuhan personal Anda akan membuat modul ini sempurna untuk kebutuhan siswa di kelas!
+                """)
                 
                 st.download_button(
                     label="⬇️ Download Modul (.docx)",
