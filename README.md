@@ -1,4 +1,4 @@
-# Generator Modul Ajar Pro 📚
+# Generator Modul Ajar Pro
 
 **Generator Modul Ajar Pro** adalah aplikasi berbasis Python dan Streamlit yang dirancang untuk membantu guru menyusun Modul Ajar Kurikulum Merdeka secara otomatis. Dengan memanfaatkan teknologi RAG (Retrieval-Augmented Generation) dan Gemini 2.5 Flash, aplikasi ini mampu membedah dokumen Capaian Pembelajaran (CP) yang kompleks dan mengubahnya menjadi draf modul yang taktis dan siap cetak.
 
